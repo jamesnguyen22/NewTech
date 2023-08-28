@@ -1,0 +1,19 @@
+{
+  "name": "newtech",
+  "version": "1.0.0",
+  "description": "New technologies in software engineering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesnguyen22/NewTech.git"
+  },
+  "author": "Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesnguyen22/NewTech/issues"
+  },
+  "homepage": "https://github.com/jamesnguyen22/NewTech#readme"
+}
